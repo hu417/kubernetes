@@ -1,2 +1,2 @@
 # kubernetes
-kubernetes相关镜像
+kubernetes相关操作。如镜像拉取等
