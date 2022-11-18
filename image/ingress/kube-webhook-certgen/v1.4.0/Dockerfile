@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+FROM registry.cn-hangzhou.aliyuncs.com/hu-kubernetes/kube_webhook_certgen:v1.4.0
